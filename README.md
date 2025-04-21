@@ -77,6 +77,7 @@ For the input `{-2, -2, -1, -1, 1, 1, 2, 2}`, the program outputs:
 
 This project is open-source and available under the MIT License.
 
+
 ## Contact
 
 For any questions or suggestions, feel free to reach out to Sanju-1114.
