@@ -1,4 +1,3 @@
-// Problem 15 on leetCode
 // Hashing means when we use MAP and SETS in programming
 #include<iostream>
 #include<vector>
