@@ -69,7 +69,6 @@ For the input `{-2, -2, -1, -1, 1, 1, 2, 2}`, the program outputs:
 ```
 
 ## Dependencies
-
 - C++ Standard Library (included with any standard C++ compiler)
 - No external libraries required
 
