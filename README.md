@@ -79,5 +79,4 @@ This project is open-source and available under the MIT License.
 
 
 ## Contact
-
 For any questions or suggestions, feel free to reach out to Sanju-1114.
