@@ -4,8 +4,6 @@
 
 This repository contains a C++ solution for the **Four Sum** problem. The goal of the problem is to find all unique quadruplets in an array of integers that sum to zero.
 
-
-
 ## Problem Description
 
 Given an array `nums` of `n` integers, find all unique quadruplets `[nums[a], nums[b], nums[c], nums[d]]` such that:
