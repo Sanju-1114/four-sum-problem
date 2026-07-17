@@ -18,6 +18,7 @@ Given an array `nums` of `n` integers, find all unique quadruplets `[nums[a], nu
 
 The solution must not contain duplicate quadruplets.
 
+---
 
 ## Solution Approach
 
