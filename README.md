@@ -32,6 +32,7 @@ The provided solution uses a **Two Pointer Approach** to efficiently find the qu
 
 The time complexity is **O(n³)**, where `n` is the size of the input array.
 
+---
 
 ## Code Explanation
 
