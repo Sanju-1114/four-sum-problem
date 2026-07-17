@@ -67,6 +67,8 @@ The time complexity is **O(n³)**, where `n` is the size of the input array.
    ./four_sum
    ```
 
+---
+
 ## Example Output
 
 For the input `{-2, -2, -1, -1, 1, 1, 2, 2}`, the program outputs:
@@ -75,6 +77,8 @@ For the input `{-2, -2, -1, -1, 1, 1, 2, 2}`, the program outputs:
 -2  -1 1 2
 -2  -1 1 2
 ```
+
+---
 
 ## Dependencies
 - C++ Standard Library (included with any standard C++ compiler)
