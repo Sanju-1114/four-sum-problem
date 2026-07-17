@@ -42,6 +42,8 @@ The time complexity is **O(n³)**, where `n` is the size of the input array.
   - `fourSum(vector<int>& nums)`: Implements the two-pointer approach to find all valid quadruplets.
   - `main()`: Demonstrates the solution with a sample input `{-2, -2, -1, -1, 1, 1, 2, 2}` and prints the resulting quadruplets.
 
+---
+
 ## How to Run
 
 1. **Clone the Repository**:
